@@ -8,7 +8,7 @@ export class HealthcheckController {
   @Get()
   async getHealthcheck() {
     return {
-      status: 'ok',
+      status: 'ok!',
     };
   }
 }
