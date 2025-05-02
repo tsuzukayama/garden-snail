@@ -26,6 +26,7 @@
     "@nestjs/common": "11.0.12",
     "@nestjs/config": "4.0.2",
     "@nestjs/core": "11.0.12",
+    "@nestjs/mapped-types": "*",
     "@nestjs/platform-fastify": "11.0.12",
     "fastify": "5.2.2",
     "reflect-metadata": "0.2.2",
